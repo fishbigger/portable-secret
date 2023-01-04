@@ -13,3 +13,10 @@ https://developer.mozilla.org/en-US/docs/Glossary/Base64
 https://stackoverflow.com/questions/23223718/failed-to-execute-btoa-on-window-the-string-to-be-encoded-contains-characte
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs
+
+Colours
+Accent1 #F06543
+Accent2 #F09D51
+Light1 #E8E9EB
+Light2 #E0DFD5
+Dark #313638
